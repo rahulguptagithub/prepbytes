@@ -1,0 +1,89 @@
+.trips {
+  font-weight: bold;
+  font-size: 68px;
+  position: relative;
+  top: 36px;
+  left: 516px;
+  font-family: sans-serif;
+}
+.hrx {
+  position: relative;
+  top: -40px;
+  left: -324px;
+  width: 122px;
+}
+.hr2 {
+  position: relative;
+  top: -53px;
+  right: -222px;
+  width: 119px;
+}
+.back {
+  position: relative;
+  top: 27px;
+  left: 641px;
+  font-size: 37px;
+  color: #716d6d;
+  font-family: sans-serif;
+}
+.sign {
+  position: relative;
+  top: -20px;
+  left: 574px;
+  color: tomato;
+}
+.box {
+  height: 385px;
+  width: 389px;
+  border: 2px solid tomato;
+  border-radius: 6px;
+  position: relative;
+  top: 3px;
+  left: 467px;
+}
+.box1 {
+  font-size: 34px;
+  color: tomato;
+  position: absolute;
+  top: 292px;
+  left: 546px;
+  font-family: sans-serif;
+}
+.hr4 {
+  position: absolute;
+  top: 330px;
+  left: 554px;
+  width: 268px;
+}
+.box2 {
+  font-size: 25px;
+  color: tomato;
+  position: absolute;
+  top: 366px;
+  left: 555px;
+  font-family: sans-serif;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.form {
+  font-size: 25px;
+  color: #424242;
+  position: absolute;
+  top: 417px;
+  left: 555px;
+  font-family: sans-serif;
+}
+.plus {
+  border: 1px solid tomato;
+  border-radius: 2px;
+  font-size: 27px;
+  border-radius: 23px;
+  background-color: tomato;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 572px;
+  left: 796px;
+}

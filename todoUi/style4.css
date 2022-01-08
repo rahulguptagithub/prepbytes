@@ -1,0 +1,140 @@
+.trips {
+  font-weight: bold;
+  font-size: 68px;
+  position: relative;
+  top: 36px;
+  left: 516px;
+  font-family: sans-serif;
+}
+.hrx {
+  position: relative;
+  top: -40px;
+  left: -224px;
+  width: 122px;
+}
+.hr2 {
+  position: relative;
+  top: -53px;
+  right: -322px;
+  width: 139px;
+}
+.back {
+  position: relative;
+  top: 27px;
+  left: 641px;
+  font-size: 37px;
+  color: #716d6d;
+  font-family: sans-serif;
+}
+.symbol {
+  position: relative;
+  top: -20px;
+  left: 574px;
+  color: tomato;
+}
+.box {
+  height: 385px;
+  width: 389px;
+  border: 2px solid tomato;
+  border-radius: 6px;
+  position: relative;
+  top: 3px;
+  left: 467px;
+}
+.box1 {
+  font-size: 34px;
+  color: tomato;
+  position: absolute;
+  top: 292px;
+  left: 546px;
+  font-family: sans-serif;
+}
+.hr4 {
+  position: absolute;
+  top: 330px;
+  left: 554px;
+  width: 268px;
+}
+.box2 {
+  font-size: 25px;
+  color: tomato;
+  position: absolute;
+  top: 366px;
+  left: 555px;
+  font-family: sans-serif;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.form {
+  font-size: 25px;
+  color: #424242;
+  position: absolute;
+  top: 417px;
+  left: 555px;
+  font-family: sans-serif;
+}
+.plus {
+  border: 1px solid tomato;
+  border-radius: 2px;
+  font-size: 27px;
+  border-radius: 23px;
+  background-color: tomato;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 572px;
+  left: 796px;
+}
+.parent {
+  filter: blur(8px);
+  z-index: -1;
+}
+.parent2 {
+  border: 1px solid red;
+  width: 313px;
+  height: 149px;
+  z-index: +1;
+  position: absolute;
+  top: 303px;
+  left: 499px;
+  border-radius: 5px;
+  background-color: white;
+}
+.new {
+  color: #f54545;
+  position: relative;
+  top: 22px;
+  left: 89px;
+  font-family: sans-serif;
+  font-size: 19px;
+}
+.new2 {
+  height: 27px;
+  width: 200px;
+  border: 1px solid #f54545;
+  position: relative;
+  top: 39px;
+  left: 52px;
+  border-radius: 4px;
+}
+.new3 {
+  height: 30px;
+  width: 70px;
+  border: 1px solid #f54545;
+  position: relative;
+  top: 51px;
+  left: 116px;
+  border-radius: 27px;
+  background-color: #f54545;
+  font-size: 17px;
+  color: white;
+}
+.parent3 {
+  height: 579px;
+  width: 1170px;
+  border: 1px solid black;
+  position: relative;
+  top: -644px;
+}

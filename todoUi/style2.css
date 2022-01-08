@@ -1,0 +1,220 @@
+.word {
+  position: relative;
+  top: 94px;
+  left: 296px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.word2 {
+  position: relative;
+  top: 11px;
+  left: 441px;
+  font-size: 41px;
+  font-family: "Raleway", sans-serif;
+  color: rgb(167 167 167);
+  font-weight: normal;
+}
+.word3 {
+  position: absolute;
+  top: 223px;
+  left: 307px;
+  border: 1px solid #f10505;
+  width: 172px;
+  height: 272px;
+  border-radius: 10px;
+}
+.word4 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 17px;
+  left: 31px;
+  font-size: 23px;
+  font-weight: lighter;
+}
+
+.hrx {
+  width: 147px;
+  position: relative;
+  left: 11px;
+  top: -3px;
+}
+.word5 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 25px;
+  left: 15px;
+  font-size: 21px;
+  text-decoration: line-through;
+}
+
+.form {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 46px;
+  left: 6px;
+  font-size: 21px;
+}
+
+.todos {
+  position: absolute;
+  top: 223px;
+  left: 585px;
+  border: 1px solid #f10505;
+  width: 172px;
+  height: 272px;
+  border-radius: 10px;
+}
+
+.todo1 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 15px;
+  left: 24px;
+  font-size: 23px;
+  font-weight: lighter;
+}
+
+.hr2 {
+  width: 147px;
+  position: relative;
+  left: 9px;
+  top: -6px;
+}
+.todo2 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 28px;
+  left: 11px;
+  font-size: 21px;
+  text-decoration: line-through;
+}
+.form2 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 46px;
+  left: 5px;
+  font-size: 21px;
+}
+
+.list4 {
+  position: absolute;
+  top: 223px;
+  left: 870px;
+  border: 1px solid #f10505;
+  width: 172px;
+  height: 272px;
+  border-radius: 10px;
+}
+
+.list1 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 15px;
+  left: 24px;
+  font-size: 23px;
+  font-weight: lighter;
+}
+
+.hr2 {
+  width: 147px;
+  position: relative;
+  left: 9px;
+  top: -6px;
+}
+.list2 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 28px;
+  left: 11px;
+  font-size: 21px;
+  text-decoration: line-through;
+}
+.form3 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 46px;
+  left: 5px;
+  font-size: 21px;
+}
+.plus {
+  border: 1px solid crimson;
+  border-radius: 2px;
+  font-size: 27px;
+  border-radius: 23px;
+  background-color: crimson;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 145px;
+  left: 890px;
+}
+.plus1 {
+  font-size: 27px;
+  text-align: center;
+  color: rgb(167 167 167);
+  position: absolute;
+  top: 147px;
+  left: 935px;
+  font-family: sans-serif;
+}
+.parent {
+  filter: blur(5px);
+  z-index: -1;
+}
+.parent2 {
+  border: 1px solid red;
+  width: 313px;
+  height: 149px;
+  z-index: +1;
+  position: absolute;
+  top: 303px;
+  left: 499px;
+  border-radius: 5px;
+  background-color: white;
+}
+.new {
+  color: #f54545;
+  position: relative;
+  top: 22px;
+  left: 89px;
+  font-family: sans-serif;
+  font-size: 19px;
+}
+.new2 {
+  height: 27px;
+  width: 200px;
+  border: 1px solid #f54545;
+  position: relative;
+  top: 39px;
+  left: 52px;
+  border-radius: 4px;
+}
+.new3 {
+  height: 30px;
+  width: 70px;
+  border: 1px solid #f54545;
+  position: relative;
+  top: 51px;
+  left: 116px;
+  border-radius: 27px;
+  background-color: #f54545;
+  font-size: 17px;
+  color: white;
+}
+.parent3 {
+  height: 579px;
+  width: 1170px;
+  border: 1px solid black;
+  position: relative;
+  top: -129px;
+}
